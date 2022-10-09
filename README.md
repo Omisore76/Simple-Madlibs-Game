@@ -38,3 +38,8 @@ Madlibs is a classic word game that has been enjoyed by children and adults for 
 ```
 deactivate
 ```
+## Tips
+
+You are free to edit the code to suit your needs.
+
+Thanks!
